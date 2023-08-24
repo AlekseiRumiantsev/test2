@@ -1,6 +1,5 @@
 print("Hello world!")
 x=0
-for c in range(10)
-    print(c)
-print("complete")
+while x<4:
+    x=x+1
 print("GITCOMMIT")
